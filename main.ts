@@ -1,5 +1,5 @@
 //% weight=70 icon="\uf1ec" color=#00bbd7
-namespace FiveDigit {
+namespace soroban {
     //% blockId=show_number block="Show a number %num"
     export function showNumber(num: number = 0): void {
         let str = num.toString()

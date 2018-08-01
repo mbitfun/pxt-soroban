@@ -1,7 +1,7 @@
 {
-    "name": "FiveDigit",
+    "name": "soroban",
     "version": "0.2.8",
-    "description": "FiveDigit",
+    "description": "soroban",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/ja/FiveDigit-strings.json"
+        "_locales/ja/soroban-strings.json"
     ],
     "testFiles": [
         "test.ts"
