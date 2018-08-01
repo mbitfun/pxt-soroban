@@ -1,3 +1,3 @@
 basic.forever(() => {
-  soroban.showNumber(59273)
+  FiveDigit.showNumber(59273)
 })
